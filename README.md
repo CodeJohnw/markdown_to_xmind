@@ -22,7 +22,7 @@ This Python script facilitates the conversion of a text file containing Markdown
 2. **Run the script**:
    - Open Terminal.
    - Navigate to the directory containing this script.
-   - Execute the script by running `python3 script_name.py`.
+   - Execute the script by running `markdown_to_xmind.py`.
 3. **Edit the Text File**:
    - Once the script is running, it will open a text file in TextEdit. Paste or write your Markdown content here.
    - Save and close the TextEdit application.
