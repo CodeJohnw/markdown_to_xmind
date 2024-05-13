@@ -1,5 +1,4 @@
-# markdown_to_xmind
-a markdown-to-xmind converter tool for setting up mindmap efficiently.
+
 # Markdown to XMind Converter
 
 This Python script facilitates the conversion of a text file containing Markdown content into a Markdown file, which can then be imported into XMind for mind mapping. The script streamlines the process by automatically creating, renaming, and opening files, allowing the user to focus on transferring the Markdown content directly into XMind.
